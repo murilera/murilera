@@ -1,6 +1,16 @@
-### Hi there 👋
+<a href="https://github.com/murilera/murilera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilera&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/murilera/murilera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murilera&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=murilera&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### hey there 👋
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 
 <!--
 **murilera/murilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.linkedin.com/in/murilorodegheri/">
+  <img align="left" alt="Murilo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
