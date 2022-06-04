@@ -8,7 +8,7 @@
 
 ### hello folks! 👋
 
-My name is Murilo Rodegheri and I'm a backend developer/web crawling developer/problem solver. I'm from Brazil, living in Chapecó. You can find me on [![LinkedIn][3.1]][3].
+My name is Murilo Rodegheri and I'm a backend developer/web crawling developer/problem solver. I'm from Brazil, living in Chapecó.
 
 
 <!--
@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### find me
+
 <a href="https://www.linkedin.com/in/murilorodegheri/">
   <img align="left" alt="Murilo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=murilera)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=murilera&left_color=green&right_color=red)
 
 <!-- links to social media icons -->
 
-<!-- icons -->
-[3.1]: https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
