@@ -6,10 +6,9 @@
 </a>
 
 
-### hey there 👋
+### hello folks! 👋
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+My name is Murilo Rodegheri and I'm a backend developer/web crawling developer/problem solver. I'm from Brazil, living in Chapecó. You can find me on [![LinkedIn][3.1]][3].
 
 
 <!--
@@ -30,3 +29,17 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/murilorodegheri/">
   <img align="left" alt="Murilo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=murilera)
+
+<!-- links to social media icons -->
+
+<!-- icons -->
+[3.1]: https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/murilorodegheri
+[2]: https://github.com/murilera
+[3]: https://www.linkedin.com/in/murilorodegheri/
+
